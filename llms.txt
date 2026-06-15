@@ -1,0 +1,16 @@
+# YaarWin
+> A modern online gaming platform and trusted digital entertainment community.
+
+YaarWin is a fast-paced, skill-based online gaming platform built for a growing community of players who value clarity, fairness and a clean mobile experience.
+
+## Pages
+- [Home](https://yaarwinn.live/index.html): Overview of YaarWin's platform and community
+- [About YaarWin](https://yaarwinn.live/about.html): Our story, mission, and brand values
+- [Features](https://yaarwinn.live/features.html): Platform capabilities and player programmes
+- [Gaming Experience](https://yaarwinn.live/gaming-experience.html): Walkthrough of a typical YaarWin session
+- [Trust & Security](https://yaarwinn.live/trust-security.html): How we protect players and data
+- [Responsible Gaming](https://yaarwinn.live/responsible-gaming.html): Principles, tools and support
+- [FAQ](https://yaarwinn.live/faq.html): Answers to the most common questions
+- [Contact](https://yaarwinn.live/contact.html): How to reach the YaarWin team
+- [Terms of Service](https://yaarwinn.live/terms.html): Platform terms in plain language
+- [Privacy Policy](https://yaarwinn.live/privacy.html): How we handle your information
